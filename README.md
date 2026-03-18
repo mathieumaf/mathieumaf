@@ -12,6 +12,7 @@ IT Specialist at [Digilac](https://digilac.ch), a Swiss Atlassian Partner based 
 
 ### Certifications
 
+- **Claude Code in Action** — Anthropic (Mar 2026)
 - **CCNA: Introduction to Networks** — Cisco Networking Academy (Jan 2026)
 - **Service Management Technical Delivery Accreditation** — Atlassian (Aug 2025)
 - **Cloud Migration Technical Delivery Accreditation** — Atlassian (Oct 2024)
