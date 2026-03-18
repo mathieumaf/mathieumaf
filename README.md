@@ -1,6 +1,6 @@
 ## Hey, I'm Mathieu 👋
 
-IT Specialist at [Digilac](https://digilac.ch), a Swiss Atlassian Partner based in Neuchâtel, Switzerland. I work across DevOps, AI integration, and automation — helping teams get the most out of the Atlassian ecosystem.
+IT Specialist at [Digilac](https://www.digilac.ch), a Swiss Atlassian Partner based in Neuchâtel, Switzerland. I work across DevOps, AI integration, and automation — helping teams get the most out of the Atlassian ecosystem.
 
 - 🔭 Currently working on CI/CD pipelines, open-source AI tooling, and intelligent automated workflows
 - 🌱 Pursuing a Diploma ES in Computer Science at CPNE (2025–2028)
