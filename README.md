@@ -12,11 +12,12 @@ IT Specialist at [Digilac](https://www.digilac.ch), a Swiss Atlassian Partner ba
 
 ### Certifications
 
-- **Model Context Protocol: Advanced Topics** — Anthropic (Mar 2026)
-- **Introduction to Model Context Protocol** — Anthropic (Mar 2026)
-- **Claude Code in Action** — Anthropic (Mar 2026)
+- [**Model Context Protocol: Advanced Topics**](https://verify.skilljar.com/c/sgfwopemojnz) — Anthropic (Mar 2026)
+- [**Introduction to Model Context Protocol**](https://verify.skilljar.com/c/gcwxkrhtrykv) — Anthropic (Mar 2026)
+- [**Claude Code in Action**](https://verify.skilljar.com/c/nyfykky5o7rb) — Anthropic (Mar 2026)
 - **CCNA: Introduction to Networks** — Cisco Networking Academy (Jan 2026)
-- **Service Management Technical Delivery Accreditation** — Atlassian (Aug 2025)
-- **Cloud Migration Technical Delivery Accreditation** — Atlassian (Oct 2024)
-- **Cloud Migration Sales Accreditation** — Atlassian (Oct 2024)
-- **Youth+Sport (J+S) Ski Instructor** — FOSPO (Mar 2024)
+- [**Service Management Technical Delivery Accreditation**](https://enable.atlassian.com/student/award/FVW7njzX3MqYDBhfApknt4qJ) — Atlassian (Aug 2025)
+- **B1 Preliminary - Score 150** — Swiss Exams (Feb 2025)
+- [**Cloud Migration Technical Delivery Accreditation**](https://enable.atlassian.com/student/award/dedg2KrZKmQDUMLg2dhB1taG) — Atlassian (Oct 2024)
+- [**Cloud Migration Sales Accreditation**](https://enable.atlassian.com/student/award/wtzmsUpJzwMKyVs45j92YSGA) — Atlassian (Oct 2024)
+- **Youth+Sport (J+S) Ski Instructor** — Federal Office of Sport FOSPO (Mar 2024)
